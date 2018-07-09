@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{66B33398-9C4E-6E98-4482-4495719622E1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Game/BarGame.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Start/CanvasStart.cs" Line="68" Column="2" />
+      <File FileName="Assets/Scripts/Start/ButtonStart.cs" Line="39" Column="2" />
+      <File FileName="Assets/Scripts/Modules/Score.cs" Line="25" Column="2" />
+      <File FileName="Assets/Scripts/Game/CanvasGame.cs" Line="46" Column="2" />
+      <File FileName="Assets/Scripts/Game/BarGame.cs" Line="34" Column="14" />
+      <File FileName="Assets/Scripts/Game/BackGame.cs" Line="18" Column="2" />
+      <File FileName="Assets/Scripts/Game/Particles.cs" Line="82" Column="2" />
+      <File FileName="Assets/Scripts/Game/PlayerScript.cs" Line="51" Column="2" />
+      <File FileName="Assets/Scripts/Modules/FogScript.cs" Line="12" Column="2" />
+      <File FileName="Assets/Scripts/Game/ButtonGame.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Modules/Static.cs" Line="16" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.No_220Noon_220App PreferredExecutionTarget="Unity.Editor" />
+</Properties>
