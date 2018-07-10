@@ -43,7 +43,7 @@ public class PlayerScript : MonoBehaviour {
         transform.localScale = Vector3.one*0.25f;
         ClickField.raycastTarget = true;
     }
-    zz
+    
     IEnumerator Activate() {
         yield return new WaitForSeconds(1);
         transform.GetComponent<PolygonCollider2D>().enabled = true;
